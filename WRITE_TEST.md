@@ -1,0 +1,1 @@
+Connectivity test by the Vibe architect agent. This branch can be deleted.
